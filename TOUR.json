@@ -1,0 +1,1 @@
+{"steps":[{"screenshot":"1-thumbnail.jpg"},{"keys":["W"],"screenshot":"2-play.jpg","wait_ms":1500},{"call":{"fn":"triggerWave","module":"ServerScriptService.Server.WaveService","on":"Server"},"keys":[],"screenshot":"3-base.jpg","wait_ms":500}],"tour":1}
